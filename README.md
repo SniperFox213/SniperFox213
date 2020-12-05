@@ -1,21 +1,21 @@
-### Hi there 👋
+### Утречко добро 👋
 
-Greetings, everyone!
+Напишу на русском, ибо английский не так уж и хорошо знаю. Может потом переведу на английский (Зачем то).
 
-You just found the profile of some other idiot, congratulations! Now let's not joke about it. I'm just gonna tell you quickly what I'm doing here and what I want to do. At the moment I am engaged in web development, Minecraft server development, and text translations (Yes, it's fanfics, and yes, I regret nothing).
+Итак, тут вы найдёте очень много... Нытья. Нытик из меня хоть куда — и именно поэтому новые коммиты выходят невероятно редко. Ничего необычного — дефолтное настроение отбитого члена общества.
 
-Now, let me make this quick about what I'm trying to do here. I'm not looking for some kind of confession, no. I just like to do websites and stuff. That's why I've been developing a network of sites for several months, completely without advertising, and supported by the community. I'll make any website that I find interesting. That's why in the near future you will be able to find here a lot of interesting sites, with a really cool idea.
+Зачастую занимаюсь никому ненужной *(А я же говорил что нытья будет много)* разработкой небольших социальных сервисов. Так же очень люблю собак и именно поэтому создаю сеть сайтов *odzi.dog*, которые будут специализироваться на обучении людей правильному отношению к собакам. Ещё есть один недо-проект под названием *ctrlpaint.ru*, но его я почти что забросил потому, что... ибо лень немного. На этом сайте вы сможете найти переводы профессиональных и полностью бесплатных уроков по традиционному и графическому рисованию. Может быть когда-то продолжу разработку и закину шекелей не русскую озвучку видео (Благо они там 5-ти минутные)
 
-In this account you can find everything related to web development. Here are my other accounts for you, if you are interested:
+Спасибо за внимание. А вот, кстати, мои другие аккаунты в соц.сетях:
 
 [Ficbook](https://ficbook.net/authors/4479137)
-*Here you'll find my translation works*
+*Творческая деятельность*
 
-[Discord](https://ds.paradiser.ml)
-*Discord username — жулипуп#2815*
+[Discord]()
+*Дискорд — жулипуп#2815*
 
-##### Translated with www.DeepL.com/Translator (free version)
-###### *Yeah, I can translate from English to Russian, but not vice versa*
+[VK](https://vk.com/shyrshling)
+*Втентаклях*
 
 <!--
 **SniperFox213/SniperFox213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
